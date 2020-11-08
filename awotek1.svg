@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="awotek1.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 100 75"
+   height="75mm"
+   width="100mm"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1051"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="8.0145199"
+     inkscape:cx="118.22793"
+     inkscape:zoom="7.9195959"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-222)">
+    <path
+       style="fill:none;stroke-width:0.025;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 13.727753,291.50316 c -0.02773,-0.0122 -0.07309,-0.0473 -0.100817,-0.0781 -0.04774,-0.053 -0.0508,-0.097 -0.05772,-0.83086 l -0.0073,-0.77486 0.271962,-0.0437 c 0.149579,-0.024 0.297481,-0.0497 0.328671,-0.057 0.05612,-0.0131 0.05671,-0.0105 0.05671,0.25823 v 0.2715 l 0.187736,-0.30028 0.187736,-0.30028 0.310049,-0.0422 c 0.367523,-0.05 0.473877,-0.0548 0.473877,-0.0211 0,0.053 -1.207258,1.83269 -1.271959,1.87508 -0.07763,0.0509 -0.303268,0.0768 -0.378923,0.0436 z m 0.300795,-0.0783 c 0.108835,-0.0534 0.07632,-0.008 0.946486,-1.32083 l 0.332407,-0.50151 -0.142982,0.0168 c -0.07864,0.009 -0.228548,0.0295 -0.333129,0.0451 l -0.190146,0.0283 -0.201354,0.3115 c -0.110745,0.17133 -0.216654,0.31151 -0.235353,0.31151 -0.02599,0 -0.03568,-0.0642 -0.04112,-0.27268 l -0.0071,-0.27268 -0.189032,0.0318 c -0.103968,0.0175 -0.225894,0.0386 -0.270946,0.047 l -0.08191,0.0152 v 0.70583 c 0,0.58869 0.0065,0.71839 0.03913,0.7815 0.0665,0.1286 0.206412,0.15592 0.375088,0.0732 z m 1.752415,0.0313 c -0.04624,-0.0414 -0.0867,-0.10985 -0.100613,-0.17013 -0.03171,-0.13739 -0.03168,-1.74427 2.5e-5,-1.76386 0.01348,-0.008 0.124059,-0.0257 0.245742,-0.0387 0.121683,-0.0129 0.263486,-0.0296 0.315117,-0.0369 l 0.09388,-0.0134 0.0069,0.39026 0.0069,0.39025 0.261529,-0.40896 c 0.143841,-0.22493 0.308299,-0.47976 0.365462,-0.56628 0.05716,-0.0865 0.262332,-0.4126 0.455931,-0.72462 l 0.352004,-0.56732 h 0.385229 c 0.303973,0 0.385229,0.007 0.385229,0.0336 0,0.0185 -0.168076,0.28216 -0.373501,0.586 -0.205425,0.30384 -0.404039,0.5978 -0.441365,0.65325 -0.03733,0.0555 -0.384107,0.5783 -0.770624,1.16189 -0.659017,0.99504 -0.709231,1.06367 -0.806757,1.10269 -0.15984,0.064 -0.289391,0.0545 -0.381167,-0.0277 z m 0.402027,-0.0495 c 0.07182,-0.0517 1.378425,-1.99149 1.356323,-2.01359 -0.0076,-0.008 -0.147793,-0.002 -0.311606,0.0114 -0.250754,0.0212 -0.304401,0.0332 -0.339319,0.0764 -0.02281,0.0282 -0.151605,0.22755 -0.286208,0.44306 -0.134603,0.21552 -0.260811,0.39185 -0.280462,0.39185 -0.0294,0 -0.03573,-0.0741 -0.03573,-0.41868 v -0.41867 l -0.08191,0.0146 c -0.04505,0.008 -0.169814,0.0222 -0.277248,0.0315 l -0.195333,0.0169 v 0.88567 c 0,0.95488 0.0016,0.9674 0.135019,1.0244 0.07742,0.0331 0.240367,0.0101 0.316476,-0.0447 z m 1.317944,-2.06453 c 0.118368,-0.0138 0.118807,-0.0142 0.275155,-0.25733 0.08613,-0.13394 0.279466,-0.42805 0.429637,-0.65357 0.15017,-0.22551 0.273038,-0.41549 0.273038,-0.42217 0,-0.007 -0.147587,-0.0121 -0.327971,-0.0121 h -0.327971 l -0.14461,0.22802 c -0.07953,0.12541 -0.277877,0.4324 -0.44076,0.6822 -0.162883,0.2498 -0.296151,0.46012 -0.296151,0.46736 0,0.0131 0.334759,-0.006 0.559633,-0.0324 z m 9.610302,2.16094 c -0.02773,-0.0121 -0.07309,-0.0472 -0.100817,-0.078 -0.04766,-0.0529 -0.05081,-0.0971 -0.05777,-0.80952 -0.004,-0.41443 0.0016,-0.75356 0.0126,-0.7536 0.08258,-3.2e-4 0.628727,0.11621 0.643384,0.13729 0.01018,0.0146 0.01869,0.0661 0.0189,0.11438 l 3.86e-4,0.0878 0.06392,-0.0941 c 0.03516,-0.0517 0.07255,-0.0941 0.0831,-0.0941 0.02414,0 0.48037,0.0981 0.539803,0.11608 0.06412,0.0194 0.05679,0.0436 -0.0741,0.24442 -0.566407,0.86918 -0.692814,1.05271 -0.751583,1.09122 -0.07523,0.0493 -0.300199,0.072 -0.377826,0.0381 z m 0.348275,-0.0856 c 0.04911,-0.0322 0.777784,-1.11916 0.814649,-1.21523 0.0078,-0.0202 -0.06986,-0.0463 -0.237192,-0.0797 l -0.248743,-0.0496 -0.08034,0.12142 c -0.111562,0.16859 -0.15557,0.16135 -0.15557,-0.0256 v -0.14702 l -0.270946,-0.0497 -0.270946,-0.0496 -0.0075,0.64406 c -0.0083,0.70827 0.005,0.80869 0.115567,0.87098 0.08194,0.0462 0.255624,0.036 0.34106,-0.02 z m -17.071327,0.0546 c 0,-0.0335 0.664578,-1.03663 0.711353,-1.07371 0.03198,-0.0253 0.785648,-0.23382 0.845306,-0.23382 0.05351,0 0.03229,0.0566 -0.0946,0.25204 -0.06748,0.10397 -0.249624,0.39036 -0.404761,0.63641 l -0.282068,0.44738 h -0.387613 c -0.26986,0 -0.387614,-0.009 -0.387614,-0.0283 z m 1.116345,-0.62335 c 0.205605,-0.32375 0.369396,-0.59307 0.36398,-0.59849 -0.0104,-0.0104 -0.296766,0.0605 -0.575176,0.14241 l -0.166033,0.0488 -0.289529,0.43493 c -0.159241,0.23921 -0.310056,0.46646 -0.335145,0.50499 l -0.04562,0.0701 0.336846,-0.007 0.336846,-0.007 z m 1.107558,-0.0964 0.0067,-0.74949 0.298483,-0.0596 c 0.164165,-0.0328 0.314862,-0.0533 0.334882,-0.0456 0.03087,0.0118 0.0353,0.13363 0.02917,0.80204 l -0.0072,0.78807 -0.334333,0.007 -0.334334,0.007 z m 0.598978,-0.0612 c 0,-0.59653 -0.0067,-0.75632 -0.0315,-0.74708 -0.01733,0.006 -0.14209,0.0324 -0.277248,0.0577 l -0.245742,0.046 v 0.70109 0.7011 h 0.277248 0.277247 z m 5.854348,0.77114 c -0.377239,-0.082 -0.74478,-0.36921 -0.922066,-0.7206 -0.240606,-0.47689 -0.219048,-1.09786 0.05237,-1.50844 0.275869,-0.41732 0.708179,-0.63049 1.278619,-0.63049 0.464242,0 0.836314,0.1392 1.107383,0.41431 0.277194,0.28131 0.392273,0.57592 0.392273,1.00421 0,0.29413 -0.04398,0.48496 -0.169035,0.73339 -0.167232,0.33223 -0.537207,0.61735 -0.917348,0.70696 -0.197786,0.0466 -0.609135,0.0469 -0.822193,6.6e-4 z m 0.738248,-0.0393 c 0.518433,-0.0934 0.960456,-0.52028 1.084207,-1.0471 0.07447,-0.31703 0.02029,-0.79229 -0.115465,-1.0128 l -0.05116,-0.0831 -0.276896,0.004 c -0.152292,0.002 -0.276895,0.0101 -0.276895,0.0175 0,0.007 0.04019,0.0624 0.08931,0.12238 0.316398,0.38613 0.291239,1.00162 -0.05395,1.3198 -0.186966,0.17234 -0.356059,0.23627 -0.655908,0.24799 -0.499171,0.0195 -0.813112,-0.14655 -0.989986,-0.52365 -0.05757,-0.12274 -0.06556,-0.17201 -0.06556,-0.40442 0,-0.23712 0.0073,-0.28037 0.07063,-0.41587 0.03885,-0.0832 0.112222,-0.19395 0.163059,-0.24617 l 0.09243,-0.0949 -0.301683,0.0161 c -0.16678,0.009 -0.31494,0.0288 -0.33133,0.0445 -0.05428,0.052 -0.135874,0.34496 -0.151109,0.54253 -0.04497,0.5831 0.252793,1.13828 0.743996,1.38721 0.266014,0.13481 0.688841,0.18667 1.026303,0.12588 z m 0.1154,-0.5602 c 0.198962,-0.0978 0.304631,-0.19655 0.401399,-0.37503 0.08283,-0.15278 0.08643,-0.17045 0.08643,-0.42407 0,-0.23856 -0.0069,-0.27874 -0.07027,-0.40774 -0.102034,-0.20778 -0.322262,-0.40374 -0.514295,-0.45762 -0.218503,-0.0613 -0.548543,-0.0558 -0.730137,0.0121 -0.192237,0.0719 -0.365452,0.23704 -0.468719,0.44681 -0.07478,0.15191 -0.08169,0.18625 -0.08169,0.40591 0,0.21169 0.0083,0.25688 0.07043,0.38339 0.09824,0.20006 0.304039,0.38305 0.504524,0.44861 0.231117,0.0756 0.614208,0.0601 0.802336,-0.0324 z m -0.903401,-1.6574 c 0.287323,-0.13446 0.725408,-0.1252 0.985903,0.0208 0.06617,0.0371 0.125867,0.0417 0.403071,0.0309 l 0.325397,-0.0126 -0.09856,-0.11703 c -0.135037,-0.16036 -0.408491,-0.33819 -0.62449,-0.40612 -0.153196,-0.0482 -0.233844,-0.0563 -0.545251,-0.0549 -0.326959,0.001 -0.384757,0.008 -0.548602,0.0669 -0.100727,0.0359 -0.23855,0.10089 -0.306273,0.14434 -0.12659,0.0812 -0.326278,0.27876 -0.376302,0.37223 -0.02808,0.0525 -0.02662,0.0527 0.296923,0.0422 0.297485,-0.01 0.339009,-0.017 0.488183,-0.0868 z m 3.949469,0.84643 v -1.44997 h -0.438723 -0.438723 l -0.01725,-0.23314 c -0.0095,-0.12823 -0.01338,-0.27284 -0.0087,-0.32136 l 0.0086,-0.0882 1.22871,-0.007 1.22871,-0.007 v 0.32732 0.32731 l -0.447377,0.007 -0.447376,0.007 -0.01363,0.37806 -0.01363,0.37807 -0.0081,-0.32136 c -0.0044,-0.17674 -0.0081,-0.34404 -0.0081,-0.37176 0,-0.13309 -0.02504,-0.12602 0.446676,-0.12602 h 0.441075 v -0.27725 -0.27725 h -1.172 -1.172 v 0.27665 0.27666 l 0.434774,0.007 0.434774,0.007 v 0.39638 0.39638 l 0.100818,0.0137 c 0.05545,0.008 0.194767,0.0163 0.309595,0.0195 0.185243,0.005 0.210184,0.0115 0.221249,0.0562 0.0069,0.0277 0.0093,0.49841 0.0055,1.04598 l -0.007,0.99557 -0.333957,0.007 -0.333957,0.007 z m 0.604903,0.40403 c 0,-0.54675 -0.0085,-0.99901 -0.0189,-1.00502 -0.0104,-0.006 -0.135158,-0.0189 -0.277247,-0.0287 l -0.258344,-0.0178 v 1.0228 1.02279 h 0.277247 0.277247 z m 1.252131,1.028 c -0.02352,-0.0235 -0.02177,-1.91845 0.0018,-1.93272 0.02061,-0.0125 0.696486,0.0752 1.247613,0.16189 l 0.346559,0.0545 v 0.13548 0.13548 h -0.46628 -0.466279 v 0.39067 0.39066 h 0.538806 c 0.42958,0 0.544709,0.007 0.56792,0.0351 0.01937,0.0233 0.02673,0.13515 0.02199,0.33396 l -0.0071,0.29888 -0.883933,0.007 c -0.486164,0.004 -0.891638,-10e-4 -0.901054,-0.0105 z m 1.721976,-0.31067 v -0.27676 l -0.548193,-0.007 -0.548194,-0.007 -0.0069,-0.44737 -0.0069,-0.44738 h 0.466861 0.466861 v -0.0865 c 0,-0.0606 -0.01322,-0.0905 -0.04411,-0.0997 -0.02426,-0.007 -0.327656,-0.0536 -0.674215,-0.10307 -0.346559,-0.0495 -0.666969,-0.0959 -0.712022,-0.10311 l -0.08191,-0.0132 v 0.9337 0.9337 h 0.844344 0.844344 z m 2.605079,0.0368 c -0.108937,-0.1597 -0.302981,-0.44349 -0.431208,-0.63063 -0.128227,-0.18714 -0.233139,-0.35015 -0.233139,-0.36224 0,-0.0121 0.01418,-0.027 0.0315,-0.0331 0.02793,-0.01 0.922725,0.19263 0.937638,0.21215 0.271421,0.35529 0.758176,1.05129 0.750772,1.0735 -0.0075,0.0225 -0.123504,0.0307 -0.433862,0.0307 h -0.423638 z m 0.630881,-0.26368 c -0.326654,-0.44872 -0.376728,-0.50635 -0.45917,-0.52844 -0.07567,-0.0203 -0.384095,-0.093 -0.705744,-0.1663 -0.04797,-0.0109 -0.0013,0.071 0.255061,0.44758 0.172577,0.25353 0.357787,0.52575 0.411577,0.60493 l 0.0978,0.14396 0.383557,9.6e-4 0.383557,9.6e-4 z m -17.395792,-1.44968 c 0.07684,-0.15645 0.207412,-0.33455 0.236959,-0.32321 0.04062,0.0156 0.04751,0.0985 0.0101,0.12157 -0.01401,0.009 -0.0252,-0.0101 -0.0252,-0.0423 0,-0.0456 -0.01942,-0.0285 -0.09159,0.0804 -0.0867,0.1309 -0.158547,0.22107 -0.130264,0.16349 z m 3.090032,-0.11477 c 0.03109,-0.0478 0.08107,-0.1294 0.111072,-0.18138 0.0684,-0.11852 0.122253,-0.12431 0.117103,-0.0126 -0.0035,0.0767 -0.0044,0.0775 -0.01431,0.0123 -0.01008,-0.0667 -0.01486,-0.0632 -0.111502,0.0816 -0.05554,0.0832 -0.114003,0.15926 -0.12993,0.16911 -0.01593,0.01 -0.0035,-0.0212 0.02756,-0.069 z m 12.701128,10e-4 c 0.086,-0.14808 0.646828,-1.05957 0.771527,-1.25392 l 0.117245,-0.18273 h 0.390041 c 0.360838,0 0.388827,0.003 0.373834,0.0441 -0.03202,0.0871 -0.883604,1.31933 -0.971117,1.40514 -0.07246,0.071 -0.0612,0.0532 0.44853,-0.71202 l 0.457516,-0.68682 h -0.332236 -0.332235 l -0.122933,0.19534 c -0.321921,0.51151 -0.77734,1.20741 -0.812353,1.24131 -0.02483,0.024 -0.0204,0.006 0.01218,-0.0504 z m -16.374713,-0.0252 c 0.03426,-0.0664 0.782972,-1.2183 0.837523,-1.28853 0.116101,-0.14945 0.409496,-0.19958 0.534896,-0.0914 0.03615,0.0312 0.07394,0.0964 0.08396,0.14492 0.01002,0.0485 0.01155,0.33207 0.0034,0.63011 -0.01345,0.49182 -0.01559,0.51162 -0.02315,0.21424 -0.0046,-0.18021 -0.01197,-0.41272 -0.01641,-0.51669 -0.0044,-0.10397 -0.0085,-0.22435 -0.009,-0.26751 -5.95e-4,-0.0511 -0.02501,-0.10258 -0.06998,-0.14755 -0.06086,-0.0609 -0.08356,-0.0677 -0.19091,-0.0574 -0.06701,0.006 -0.151936,0.0342 -0.188723,0.0616 -0.03679,0.0275 -0.261235,0.336 -0.498773,0.68564 -0.412112,0.6066 -0.538737,0.77964 -0.462833,0.63249 z m 3.015507,-0.027 c 0.176759,-0.29273 0.676989,-1.10388 0.732277,-1.18742 0.171524,-0.25919 0.534871,-0.26547 0.722532,-0.0125 0.0488,0.0658 0.0533,0.10969 0.0605,0.58957 0.0051,0.34128 -0.0013,0.52761 -0.0189,0.54517 -0.01877,0.0188 -0.02669,-0.12243 -0.02672,-0.47615 -2.6e-5,-0.42891 -0.0065,-0.51553 -0.04411,-0.58925 -0.118922,-0.23322 -0.425984,-0.27081 -0.600401,-0.0735 -0.02874,0.0325 -0.18652,0.26893 -0.350633,0.52538 -0.423865,0.66237 -0.468306,0.72897 -0.499168,0.74804 -0.01515,0.009 -0.0041,-0.0219 0.02462,-0.0694 z m 10.007685,-0.22257 c -0.0104,-0.13036 -0.0189,-0.44509 -0.0189,-0.69942 v -0.46241 h 0.88215 0.882151 v 0.32766 0.32766 h -0.541896 -0.541892 l -0.0031,0.17012 c -0.0017,0.0936 -0.01128,0.24953 -0.02124,0.34656 -0.01524,0.14852 -0.01874,0.11761 -0.02207,-0.19533 l -0.004,-0.37176 h 0.541893 0.541892 v -0.27725 -0.27725 h -0.83133 -0.83133 l -0.0067,0.67422 c -0.0053,0.53321 -0.01067,0.62465 -0.02562,0.4372 z m -11.256315,-0.47501 -0.0037,-0.68682 h 0.327656 0.327656 l -0.0032,0.67422 c -0.002,0.42507 -0.01061,0.6323 -0.02334,0.56079 -0.0111,-0.0624 -0.02102,-0.35443 -0.02205,-0.64901 l -0.0019,-0.53559 h -0.277172 -0.277247 l -0.0027,0.51039 c -0.0015,0.28071 -0.01118,0.57844 -0.0215,0.66161 -0.01193,0.0962 -0.02011,-0.0988 -0.02247,-0.53559 z m 13.39868,0.63433 c -0.0104,-0.0104 -0.0189,-0.31192 -0.0189,-0.67004 v -0.65111 h 0.326169 c 0.179392,0 0.332691,0.0106 0.340663,0.0235 0.008,0.0129 0.0058,0.31629 -0.0048,0.67421 l -0.01931,0.65076 -0.01549,-0.40327 c -0.0085,-0.22179 -0.01703,-0.51385 -0.0189,-0.64901 l -0.0034,-0.24574 H 27.275522 26.9987 l -0.0067,0.64483 c -0.0037,0.35466 -0.01523,0.63632 -0.02563,0.62591 z m -5.878902,-0.41938 c -0.126549,-0.0449 -0.207333,-0.11546 -0.262482,-0.22938 -0.145184,-0.29991 0.03367,-0.64372 0.357997,-0.68817 0.227712,-0.0312 0.460089,0.119 0.520474,0.33645 0.03288,0.11838 0.03292,0.14748 4.06e-4,0.26455 -0.07114,0.25614 -0.363426,0.40624 -0.616395,0.31655 z m 0.323341,-0.054 c 0.107108,-0.0447 0.210381,-0.16933 0.244064,-0.29442 0.07903,-0.2935 -0.220681,-0.59092 -0.508564,-0.50467 -0.122063,0.0366 -0.245672,0.14153 -0.289107,0.24549 -0.142191,0.34031 0.213297,0.6958 0.553607,0.5536 z"
+       id="path826"
+       inkscape:connector-curvature="0" />
+    <g
+       gcodetools="Gcodetools orientation group"
+       transform="matrix(1.000000,0.000000,0.000000,1.000000,0.000000,222.000000)"
+       id="g849">
+      <g
+         gcodetools="Gcodetools orientation point (2 points)"
+         id="g839">
+        <path
+           d="m 0.0,75.0 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z"
+           gcodetools="Gcodetools orientation point arrow"
+           style="stroke:none;fill:#000000;"
+           id="path833" />
+        <text
+           gcodetools="Gcodetools orientation point text"
+           style="font-family:DejaVu Sans;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;fill:#000000;fill-opacity:1;stroke:none;font-size:10.000000px;"
+           x="10.0"
+           y="65.0"
+           xml:space="preserve"
+           id="text837"><tspan
+             x="10.0"
+             y="65.0"
+             sodipodi:role="line"
+             id="tspan835">(0.0; 0.0; 0.0)</tspan></text>
+      </g>
+      <g
+         gcodetools="Gcodetools orientation point (2 points)"
+         id="g847">
+        <path
+           d="m 100.0,75.0 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z"
+           gcodetools="Gcodetools orientation point arrow"
+           style="stroke:none;fill:#000000;"
+           id="path841" />
+        <text
+           gcodetools="Gcodetools orientation point text"
+           style="font-family:DejaVu Sans;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;fill:#000000;fill-opacity:1;stroke:none;font-size:10.000000px;"
+           x="110.0"
+           y="65.0"
+           xml:space="preserve"
+           id="text845"><tspan
+             x="110.0"
+             y="65.0"
+             sodipodi:role="line"
+             id="tspan843">(100.0; 0.0; -1.5)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1091"
+       transform="matrix(0.79461047,0,0,0.88054311,-326.56763,91.784885)"
+       gcodetools="Gcodetools tool definition">
+      <path
+         id="path879"
+         d="M -20,-20 H 380 V 350 H -20 Z"
+         style="fill:#00ff00;fill-opacity:0.5;stroke:#444444;stroke-width:1px"
+         gcodetools="Gcodetools tool background"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g889"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text883"
+           xml:space="preserve"
+           y="0"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan881"
+             sodipodi:role="line"
+             y="0"
+             x="0">name</tspan></text>
+        <text
+           id="text887"
+           xml:space="preserve"
+           y="0"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan885"
+             sodipodi:role="line"
+             y="0"
+             x="150">Default tool</tspan></text>
+      </g>
+      <g
+         id="g899"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text893"
+           xml:space="preserve"
+           y="20"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan891"
+             sodipodi:role="line"
+             y="20"
+             x="0">id</tspan></text>
+        <text
+           id="text897"
+           xml:space="preserve"
+           y="20"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan895"
+             sodipodi:role="line"
+             y="20"
+             x="150">default tool</tspan></text>
+      </g>
+      <g
+         id="g909"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text903"
+           xml:space="preserve"
+           y="35"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan901"
+             sodipodi:role="line"
+             y="35"
+             x="0">diameter</tspan></text>
+        <text
+           id="text907"
+           xml:space="preserve"
+           y="35"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan905"
+             sodipodi:role="line"
+             y="35"
+             x="150">0.1</tspan></text>
+      </g>
+      <g
+         id="g919"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text913"
+           xml:space="preserve"
+           y="50"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan911"
+             sodipodi:role="line"
+             y="50"
+             x="0">feed</tspan></text>
+        <text
+           id="text917"
+           xml:space="preserve"
+           y="50"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan915"
+             sodipodi:role="line"
+             y="50"
+             x="150">150.0</tspan></text>
+      </g>
+      <g
+         id="g929"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text923"
+           xml:space="preserve"
+           y="65"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan921"
+             sodipodi:role="line"
+             y="65"
+             x="0">shape</tspan></text>
+        <text
+           id="text927"
+           xml:space="preserve"
+           y="65"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan925"
+             sodipodi:role="line"
+             y="65"
+             x="150">10</tspan></text>
+      </g>
+      <g
+         id="g939"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text933"
+           xml:space="preserve"
+           y="80"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan931"
+             sodipodi:role="line"
+             y="80"
+             x="0">penetration angle</tspan></text>
+        <text
+           id="text937"
+           xml:space="preserve"
+           y="80"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan935"
+             sodipodi:role="line"
+             y="80"
+             x="150">90.0</tspan></text>
+      </g>
+      <g
+         id="g949"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text943"
+           xml:space="preserve"
+           y="95"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan941"
+             sodipodi:role="line"
+             y="95"
+             x="0">penetration feed</tspan></text>
+        <text
+           id="text947"
+           xml:space="preserve"
+           y="95"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan945"
+             sodipodi:role="line"
+             y="95"
+             x="150">100.0</tspan></text>
+      </g>
+      <g
+         id="g959"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text953"
+           xml:space="preserve"
+           y="110"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan951"
+             sodipodi:role="line"
+             y="110"
+             x="0">passing feed</tspan></text>
+        <text
+           id="text957"
+           xml:space="preserve"
+           y="110"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan955"
+             sodipodi:role="line"
+             y="110"
+             x="150">250</tspan></text>
+      </g>
+      <g
+         id="g969"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text963"
+           xml:space="preserve"
+           y="125"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan961"
+             sodipodi:role="line"
+             y="125"
+             x="0">depth step</tspan></text>
+        <text
+           id="text967"
+           xml:space="preserve"
+           y="125"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan965"
+             sodipodi:role="line"
+             y="125"
+             x="150">1.0</tspan></text>
+      </g>
+      <g
+         id="g979"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text973"
+           xml:space="preserve"
+           y="140"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan971"
+             sodipodi:role="line"
+             y="140"
+             x="0">in trajectotry</tspan></text>
+        <text
+           id="text977"
+           xml:space="preserve"
+           y="140"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan975"
+             sodipodi:role="line"
+             y="140"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g989"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text983"
+           xml:space="preserve"
+           y="155"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan981"
+             sodipodi:role="line"
+             y="155"
+             x="0">out trajectotry</tspan></text>
+        <text
+           id="text987"
+           xml:space="preserve"
+           y="155"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan985"
+             sodipodi:role="line"
+             y="155"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g999"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text993"
+           xml:space="preserve"
+           y="170"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan991"
+             sodipodi:role="line"
+             y="170"
+             x="0">gcode before path</tspan></text>
+        <text
+           id="text997"
+           xml:space="preserve"
+           y="170"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan995"
+             sodipodi:role="line"
+             y="170"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1009"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1003"
+           xml:space="preserve"
+           y="185"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1001"
+             sodipodi:role="line"
+             y="185"
+             x="0">gcode after path</tspan></text>
+        <text
+           id="text1007"
+           xml:space="preserve"
+           y="185"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1005"
+             sodipodi:role="line"
+             y="185"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1019"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1013"
+           xml:space="preserve"
+           y="200"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1011"
+             sodipodi:role="line"
+             y="200"
+             x="0">sog</tspan></text>
+        <text
+           id="text1017"
+           xml:space="preserve"
+           y="200"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1015"
+             sodipodi:role="line"
+             y="200"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1029"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1023"
+           xml:space="preserve"
+           y="215"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1021"
+             sodipodi:role="line"
+             y="215"
+             x="0">spinlde rpm</tspan></text>
+        <text
+           id="text1027"
+           xml:space="preserve"
+           y="215"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1025"
+             sodipodi:role="line"
+             y="215"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1039"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1033"
+           xml:space="preserve"
+           y="230"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1031"
+             sodipodi:role="line"
+             y="230"
+             x="0">CW or CCW</tspan></text>
+        <text
+           id="text1037"
+           xml:space="preserve"
+           y="230"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1035"
+             sodipodi:role="line"
+             y="230"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1049"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1043"
+           xml:space="preserve"
+           y="245"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1041"
+             sodipodi:role="line"
+             y="245"
+             x="0">tool change gcode</tspan></text>
+        <text
+           id="text1047"
+           xml:space="preserve"
+           y="245"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1045"
+             sodipodi:role="line"
+             y="245"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1059"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1053"
+           xml:space="preserve"
+           y="260"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1051"
+             sodipodi:role="line"
+             y="260"
+             x="0">4th axis meaning</tspan></text>
+        <text
+           id="text1057"
+           xml:space="preserve"
+           y="260"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1055"
+             sodipodi:role="line"
+             y="260"
+             x="150">(None)</tspan></text>
+      </g>
+      <g
+         id="g1069"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1063"
+           xml:space="preserve"
+           y="275"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1061"
+             sodipodi:role="line"
+             y="275"
+             x="0">4th axis offset</tspan></text>
+        <text
+           id="text1067"
+           xml:space="preserve"
+           y="275"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1065"
+             sodipodi:role="line"
+             y="275"
+             x="150">0.0</tspan></text>
+      </g>
+      <g
+         id="g1079"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1073"
+           xml:space="preserve"
+           y="290"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1071"
+             sodipodi:role="line"
+             y="290"
+             x="0">4th axis scale</tspan></text>
+        <text
+           id="text1077"
+           xml:space="preserve"
+           y="290"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1075"
+             sodipodi:role="line"
+             y="290"
+             x="150">1.0</tspan></text>
+      </g>
+      <g
+         id="g1089"
+         gcodetools="Gcodetools tool parameter">
+        <text
+           id="text1083"
+           xml:space="preserve"
+           y="305"
+           x="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field name"><tspan
+             id="tspan1081"
+             sodipodi:role="line"
+             y="305"
+             x="0">fine feed</tspan></text>
+        <text
+           id="text1087"
+           xml:space="preserve"
+           y="305"
+           x="150"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools tool definition field value"><tspan
+             id="tspan1085"
+             sodipodi:role="line"
+             y="305"
+             x="150">800</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#999999;stroke-width:0.30000001;marker-end:url(#DrawCurveMarker)"
+       d="m 12.984459,287.91964 c -0.128034,0 -0.272659,0.0548 -0.346182,0.14945 -0.05455,0.0702 -0.803263,1.22213 -0.837523,1.28853 v 0 -8e-5 c -0.0759,0.14715 0.05072,-0.0259 0.462833,-0.63249 0.237538,-0.34964 0.461983,-0.65814 0.498773,-0.68564 0.03679,-0.0274 0.121713,-0.0556 0.188723,-0.0616 0.10735,-0.0103 0.13005,-0.003 0.19091,0.0574 0.04497,0.045 0.06939,0.0965 0.06998,0.14755 5e-4,0.0432 0.0046,0.16354 0.009,0.26751 0.0044,0.10397 0.01181,0.33648 0.01641,0.51669 0.0076,0.29738 0.0097,0.27758 0.02315,-0.21424 0.0081,-0.29804 0.0066,-0.58161 -0.0034,-0.63011 -0.01002,-0.0485 -0.04781,-0.11372 -0.08396,-0.14492 -0.04599,-0.0397 -0.114569,-0.058 -0.188714,-0.058 z m 0.743294,3.58352 2.2e-5,3e-5 c 0.07566,0.0332 0.301293,0.007 0.378923,-0.0436 0.0647,-0.0424 1.271959,-1.82208 1.271959,-1.87508 0,-0.0337 -0.106354,-0.0289 -0.473877,0.0211 l -0.310049,0.0422 -0.187736,0.30028 -0.187736,0.30028 v -0.2715 c 0,-0.26873 -5.9e-4,-0.27133 -0.05671,-0.25823 -0.03119,0.007 -0.179092,0.033 -0.328671,0.057 l -0.271962,0.0437 0.0073,0.77486 c 0.0069,0.73386 0.01,0.77786 0.05772,0.83086 0.02773,0.0308 0.07309,0.0659 0.100817,0.0781 z m 0.300795,-0.0783 3.9e-5,4e-5 c -0.168676,0.0827 -0.308588,0.0554 -0.375088,-0.0732 -0.03263,-0.0631 -0.03913,-0.19281 -0.03913,-0.7815 v -0.70583 l 0.08191,-0.0152 c 0.04505,-0.008 0.166978,-0.0295 0.270946,-0.047 l 0.189032,-0.0318 0.0071,0.27268 c 0.0054,0.20848 0.01513,0.27268 0.04112,0.27268 0.0187,0 0.124608,-0.14018 0.235353,-0.31151 l 0.201354,-0.3115 0.190146,-0.0283 c 0.104581,-0.0156 0.254489,-0.0361 0.333129,-0.0451 l 0.142982,-0.0168 -0.332407,0.50151 c -0.870166,1.31283 -0.837651,1.26743 -0.946486,1.32083 z m 1.752415,0.0313 -7.9e-5,7e-5 c 0.09178,0.0822 0.221327,0.0917 0.381167,0.0277 0.09753,-0.039 0.14774,-0.10765 0.806757,-1.10269 0.386517,-0.58359 0.733294,-1.10639 0.770624,-1.16189 0.03733,-0.0555 0.23594,-0.34941 0.441365,-0.65325 0.205425,-0.30384 0.373501,-0.5675 0.373501,-0.586 0,-0.0266 -0.08126,-0.0336 -0.385229,-0.0336 H 17.78384 l -0.352004,0.56732 c -0.193599,0.31202 -0.398771,0.63812 -0.455931,0.72462 -0.05716,0.0865 -0.221621,0.34135 -0.365462,0.56628 l -0.261529,0.40896 -0.0069,-0.39025 -0.0069,-0.39026 -0.09388,0.0134 c -0.05163,0.007 -0.193434,0.024 -0.315117,0.0369 -0.121683,0.013 -0.232262,0.0307 -0.245742,0.0387 -0.03171,0.0196 -0.03173,1.62647 -2.5e-5,1.76386 0.01391,0.0603 0.05437,0.12873 0.100613,0.17013 z m 0.402027,-0.0495 2e-6,1.4e-4 c -0.07611,0.0548 -0.239056,0.0778 -0.316476,0.0447 -0.133419,-0.057 -0.135019,-0.0695 -0.135019,-1.0244 v -0.88567 l 0.195333,-0.0169 c 0.107434,-0.009 0.232198,-0.0235 0.277248,-0.0315 l 0.08191,-0.0146 v 0.41867 c 0,0.34458 0.0063,0.41868 0.03573,0.41868 0.01965,0 0.145859,-0.17633 0.280462,-0.39185 0.134603,-0.21551 0.263398,-0.41486 0.286208,-0.44306 0.03492,-0.0432 0.08857,-0.0552 0.339319,-0.0764 0.163813,-0.0134 0.304006,-0.0194 0.311606,-0.0114 0.0221,0.0221 -1.284503,1.96189 -1.356323,2.01359 z m 1.317944,-2.06453 v 10e-6 c -0.224874,0.0264 -0.559633,0.0455 -0.559633,0.0324 0,-0.007 0.133268,-0.21756 0.296151,-0.46736 0.162883,-0.2498 0.36123,-0.55679 0.44076,-0.6822 l 0.14461,-0.22802 h 0.327971 c 0.180384,0 0.327971,0.005 0.327971,0.0121 0,0.007 -0.122868,0.19666 -0.273038,0.42217 -0.150171,0.22552 -0.343507,0.51963 -0.429637,0.65357 -0.156348,0.24313 -0.156787,0.24353 -0.275155,0.25733 z m 9.610302,2.16094 -3e-6,-3e-5 c 0.07763,0.0339 0.302596,0.0112 0.377826,-0.0381 0.05877,-0.0385 0.185176,-0.22204 0.751583,-1.09122 0.13089,-0.20082 0.13822,-0.22502 0.0741,-0.24442 -0.05943,-0.018 -0.515663,-0.11608 -0.539803,-0.11608 -0.01055,0 -0.04794,0.0424 -0.0831,0.0941 l -0.06392,0.0941 -3.86e-4,-0.0878 c -2.1e-4,-0.0483 -0.0087,-0.0998 -0.0189,-0.11438 -0.01466,-0.0211 -0.560804,-0.13761 -0.643384,-0.13729 -0.011,4e-5 -0.0166,0.33917 -0.0126,0.7536 0.007,0.71242 0.01011,0.75662 0.05777,0.80952 0.02773,0.0308 0.07309,0.0659 0.100817,0.078 z m 0.348275,-0.0856 3.9e-5,1e-5 c -0.08544,0.056 -0.25912,0.0662 -0.34106,0.02 -0.110567,-0.0623 -0.123867,-0.16271 -0.115567,-0.87098 l 0.0075,-0.64406 0.270946,0.0496 0.270946,0.0497 v 0.14702 c 0,0.18695 0.04401,0.19419 0.15557,0.0256 l 0.08034,-0.12142 0.248743,0.0496 c 0.167332,0.0334 0.244992,0.0595 0.237192,0.0797 -0.03686,0.0961 -0.765539,1.18303 -0.814649,1.21523 z m -17.071327,0.0546 h 3e-6 c 0,0.0193 0.117754,0.0283 0.387614,0.0283 h 0.387613 l 0.282068,-0.44738 c 0.155137,-0.24605 0.337281,-0.53244 0.404761,-0.63641 0.12689,-0.19544 0.14811,-0.25204 0.0946,-0.25204 -0.05966,0 -0.813326,0.20852 -0.845306,0.23382 -0.04678,0.0371 -0.711353,1.04021 -0.711353,1.07371 z m 1.116345,-0.62335 -0.373831,0.58874 -0.336846,0.007 -0.336846,0.007 0.04562,-0.0701 c 0.02509,-0.0385 0.175904,-0.26578 0.335145,-0.50499 l 0.289529,-0.43493 0.166033,-0.0488 c 0.27841,-0.0819 0.564776,-0.15281 0.575176,-0.14241 0.0054,0.005 -0.158375,0.27474 -0.36398,0.59849 z m 1.107558,-0.0964 -0.0066,0.74942 0.334334,-0.007 0.334333,-0.007 0.0072,-0.78807 c 0.0061,-0.66841 0.0017,-0.79024 -0.02917,-0.80204 -0.02002,-0.008 -0.170717,0.0128 -0.334882,0.0456 l -0.298483,0.0596 z m 0.598978,-0.0612 5e-6,0.75881 h -0.277247 -0.277248 v -0.7011 -0.70109 l 0.245742,-0.046 c 0.135158,-0.0253 0.259918,-0.0517 0.277248,-0.0577 0.0248,-0.009 0.0315,0.15055 0.0315,0.74708 z m 5.854348,0.77114 h 3e-6 c 0.213058,0.0462 0.624407,0.0459 0.822193,-6.6e-4 0.380141,-0.0896 0.750116,-0.37473 0.917348,-0.70696 0.125055,-0.24843 0.169035,-0.43926 0.169035,-0.73339 0,-0.42829 -0.115079,-0.7229 -0.392273,-1.00421 -0.271069,-0.27511 -0.643141,-0.41431 -1.107383,-0.41431 -0.57044,0 -1.00275,0.21317 -1.278619,0.63049 -0.271418,0.41058 -0.292976,1.03155 -0.05237,1.50844 0.177286,0.35139 0.544827,0.6386 0.922066,0.7206 z m 0.738248,-0.0393 -7e-6,-1.2e-4 c -0.337462,0.0608 -0.760289,0.009 -1.026303,-0.12588 -0.491203,-0.24893 -0.788966,-0.80411 -0.743996,-1.38721 0.01524,-0.19757 0.09683,-0.49053 0.151109,-0.54253 0.01639,-0.0157 0.16455,-0.0355 0.33133,-0.0445 l 0.301683,-0.0161 -0.09243,0.0949 c -0.05084,0.0522 -0.124209,0.16297 -0.163059,0.24617 -0.06333,0.1355 -0.07063,0.17875 -0.07063,0.41587 0,0.23241 0.008,0.28168 0.06556,0.40442 0.176874,0.3771 0.490815,0.54315 0.989986,0.52365 0.299849,-0.0117 0.468942,-0.0756 0.655908,-0.24799 0.345189,-0.31818 0.370348,-0.93367 0.05395,-1.3198 -0.04912,-0.06 -0.08931,-0.11538 -0.08931,-0.12238 0,-0.007 0.124603,-0.0155 0.276895,-0.0175 l 0.276896,-0.004 0.05116,0.0831 c 0.135755,0.22051 0.189935,0.69577 0.115465,1.0128 -0.123751,0.52682 -0.565774,0.9537 -1.084207,1.0471 z m 0.1154,-0.5602 8e-6,-4e-5 c -0.188128,0.0925 -0.571219,0.108 -0.802336,0.0324 -0.200485,-0.0656 -0.406284,-0.24855 -0.504524,-0.44861 -0.06213,-0.12651 -0.07043,-0.1717 -0.07043,-0.38339 0,-0.21966 0.0069,-0.254 0.08169,-0.40591 0.103267,-0.20977 0.276482,-0.37491 0.468719,-0.44681 0.181594,-0.0679 0.511634,-0.0734 0.730137,-0.0121 0.192033,0.0539 0.412261,0.24984 0.514295,0.45762 0.06337,0.129 0.07027,0.16918 0.07027,0.40774 0,0.25362 -0.0036,0.27129 -0.08643,0.42407 -0.09677,0.17848 -0.202437,0.27723 -0.401399,0.37503 z m -0.903401,-1.6574 -1e-6,-8e-5 c -0.149174,0.0698 -0.190698,0.0768 -0.488183,0.0868 -0.323543,0.0105 -0.325003,0.0103 -0.296923,-0.0422 0.05002,-0.0935 0.249712,-0.29103 0.376302,-0.37223 0.06772,-0.0435 0.205546,-0.10844 0.306273,-0.14434 0.163845,-0.0589 0.221643,-0.0659 0.548602,-0.0669 0.311407,-0.001 0.392055,0.007 0.545251,0.0549 0.215999,0.0679 0.489453,0.24576 0.62449,0.40612 l 0.09856,0.11703 -0.325397,0.0126 c -0.277204,0.0108 -0.336901,0.006 -0.403071,-0.0309 -0.260495,-0.146 -0.69858,-0.15526 -0.985903,-0.0208 z m 3.949469,0.84643 -4.2e-5,1.44947 0.333957,-0.007 0.333957,-0.007 0.007,-0.99557 c 0.0038,-0.54757 0.0014,-1.01828 -0.0055,-1.04598 -0.01106,-0.0447 -0.03601,-0.0512 -0.221249,-0.0562 -0.114828,-0.003 -0.254145,-0.0115 -0.309595,-0.0195 l -0.100818,-0.0137 v -0.39638 -0.39638 l -0.434774,-0.007 -0.434774,-0.007 v -0.27666 -0.27665 h 1.172 1.172 v 0.27725 0.27725 h -0.441075 c -0.471716,0 -0.446676,-0.007 -0.446676,0.12602 0,0.0277 0.0037,0.19502 0.0081,0.37176 l 0.0081,0.32136 0.01363,-0.37807 0.01363,-0.37806 0.447376,-0.007 0.447377,-0.007 v -0.32731 -0.32732 l -1.22871,0.007 -1.22871,0.007 -0.0086,0.0882 c -0.0047,0.0485 -8e-4,0.19313 0.0087,0.32136 l 0.01725,0.23314 h 0.438723 0.438723 z m 0.604903,0.40403 3e-6,0.99407 h -0.277247 -0.277247 v -1.02279 -1.0228 l 0.258344,0.0178 c 0.142089,0.01 0.266847,0.0227 0.277247,0.0287 0.0104,0.006 0.0189,0.45827 0.0189,1.00502 z m 1.252131,1.028 4.2e-5,4e-4 c 0.0094,0.01 0.41489,0.0145 0.901054,0.0105 l 0.883933,-0.007 0.0071,-0.29888 c 0.0047,-0.19881 -0.0026,-0.31066 -0.02199,-0.33396 -0.02321,-0.0281 -0.13834,-0.0351 -0.56792,-0.0351 h -0.538806 v -0.39066 -0.39067 h 0.466279 0.46628 v -0.13548 -0.13548 l -0.346559,-0.0545 c -0.551127,-0.0867 -1.227003,-0.17439 -1.247613,-0.16189 -0.02357,0.0143 -0.02532,1.90922 -0.0018,1.93272 z m 1.721976,-0.31067 -3.4e-5,0.27631 h -0.844344 -0.844344 v -0.9337 -0.9337 l 0.08191,0.0132 c 0.04505,0.007 0.365463,0.0536 0.712022,0.10311 0.346559,0.0495 0.649955,0.0961 0.674215,0.10307 0.03089,0.009 0.04411,0.0391 0.04411,0.0997 v 0.0865 h -0.466861 -0.466861 l 0.0069,0.44738 0.0069,0.44737 0.548194,0.007 0.548193,0.007 z m 2.605079,0.0368 0.198063,0.29038 h 0.423638 c 0.310358,0 0.426362,-0.008 0.433862,-0.0307 0.0074,-0.0222 -0.479351,-0.71821 -0.750772,-1.0735 -0.01491,-0.0195 -0.909708,-0.22215 -0.937638,-0.21215 -0.01732,0.006 -0.0315,0.021 -0.0315,0.0331 0,0.0121 0.104912,0.1751 0.233139,0.36224 0.128227,0.18714 0.322271,0.47093 0.431208,0.63063 z m 0.630881,-0.26368 0.366638,0.50365 -0.383557,-9.6e-4 -0.383557,-9.6e-4 -0.0978,-0.14396 c -0.05379,-0.0792 -0.239,-0.3514 -0.411577,-0.60493 -0.256361,-0.37658 -0.303031,-0.45848 -0.255061,-0.44758 0.321649,0.0733 0.630074,0.146 0.705744,0.1663 0.08244,0.0221 0.132516,0.0797 0.45917,0.52844 z m -17.395792,-1.44968 5e-6,-5e-5 c -0.02828,0.0576 0.04356,-0.0326 0.130264,-0.16349 0.07217,-0.1089 0.09159,-0.126 0.09159,-0.0804 0,0.0322 0.01119,0.0513 0.0252,0.0423 0.03741,-0.0231 0.03052,-0.10597 -0.0101,-0.12157 -0.02955,-0.0113 -0.160119,0.16676 -0.236959,0.32321 z m 3.090032,-0.11477 -7e-6,3e-5 c -0.03106,0.0478 -0.04349,0.079 -0.02756,0.069 0.01593,-0.01 0.07439,-0.0859 0.12993,-0.16911 0.09664,-0.1448 0.101422,-0.1483 0.111502,-0.0816 0.0099,0.0652 0.01081,0.0644 0.01431,-0.0123 0.0051,-0.11171 -0.0487,-0.10592 -0.117103,0.0126 -0.03,0.052 -0.07998,0.13358 -0.111072,0.18138 z m 12.701128,10e-4 h -1e-6 c -0.03258,0.0564 -0.03701,0.0744 -0.01218,0.0504 0.03501,-0.0339 0.490432,-0.7298 0.812353,-1.24131 l 0.122933,-0.19534 h 0.332235 0.332236 l -0.457516,0.68682 c -0.50973,0.76522 -0.52099,0.78302 -0.44853,0.71202 0.08751,-0.0858 0.939097,-1.31804 0.971117,-1.40514 0.01499,-0.0411 -0.013,-0.0441 -0.373834,-0.0441 h -0.390041 l -0.117245,0.18273 c -0.124699,0.19435 -0.685527,1.10584 -0.771527,1.25392 z m -13.359206,-0.0522 -3e-6,-6e-5 c -0.02872,0.0475 -0.03977,0.0784 -0.02462,0.0694 0.03086,-0.0191 0.0753,-0.0857 0.499168,-0.74804 0.164113,-0.25645 0.321893,-0.49288 0.350633,-0.52538 0.174417,-0.19731 0.481479,-0.15972 0.600401,0.0735 0.03761,0.0737 0.04408,0.16034 0.04411,0.58925 3e-5,0.35372 0.008,0.49495 0.02672,0.47615 0.0176,-0.0176 0.024,-0.20389 0.0189,-0.54517 -0.0072,-0.47988 -0.0117,-0.52377 -0.0605,-0.58957 -0.187661,-0.25297 -0.551008,-0.24669 -0.722532,0.0125 -0.05529,0.0835 -0.555518,0.89469 -0.732277,1.18742 z m 10.007685,-0.22257 h 8e-6 c 0.01495,0.18745 0.02032,0.096 0.02562,-0.4372 l 0.0067,-0.67422 h 0.83133 0.83133 v 0.27725 0.27725 h -0.541892 -0.541893 l 0.004,0.37176 c 0.0033,0.31294 0.0068,0.34385 0.02207,0.19533 0.01,-0.097 0.01954,-0.25296 0.02124,-0.34656 l 0.0031,-0.17012 h 0.541892 0.541896 v -0.32766 -0.32766 h -0.882151 -0.88215 v 0.46241 c 0,0.25433 0.0085,0.56906 0.0189,0.69942 z m -11.256315,-0.47501 h 3.3e-5 c 0.0024,0.43679 0.01054,0.63179 0.02247,0.53559 0.01032,-0.0832 0.02,-0.3809 0.0215,-0.66161 l 0.0027,-0.51039 h 0.277247 0.277172 l 0.0019,0.53559 c 0.001,0.29458 0.01095,0.58661 0.02205,0.64901 0.01273,0.0715 0.02134,-0.13572 0.02334,-0.56079 l 0.0032,-0.67422 h -0.327656 -0.327656 z m 13.39868,0.63433 5.9e-5,4e-5 c 0.0104,0.0104 0.02193,-0.27125 0.02563,-0.62591 l 0.0067,-0.64483 h 0.276822 0.276821 l 0.0034,0.24574 c 0.0019,0.13516 0.0104,0.42722 0.0189,0.64901 l 0.01549,0.40327 0.01931,-0.65076 c 0.0106,-0.35792 0.0128,-0.66131 0.0048,-0.67421 -0.008,-0.0129 -0.161271,-0.0235 -0.340663,-0.0235 h -0.326169 v 0.65111 c 0,0.35812 0.0085,0.65964 0.0189,0.67004 z m -5.878902,-0.41938 v 0 c 0.252969,0.0897 0.545255,-0.0604 0.616395,-0.31655 0.03251,-0.11707 0.03247,-0.14617 -4.06e-4,-0.26455 -0.06039,-0.21745 -0.292762,-0.36765 -0.520474,-0.33645 -0.324327,0.0445 -0.503181,0.38826 -0.357997,0.68817 0.05515,0.11392 0.135933,0.18448 0.262482,0.22938 z m 0.323341,-0.054 v 0 c -0.34031,0.1422 -0.695798,-0.21329 -0.553607,-0.5536 0.04343,-0.10396 0.167044,-0.20889 0.289107,-0.24549 0.287883,-0.0862 0.587594,0.21117 0.508564,0.50467 -0.03368,0.12509 -0.136956,0.24972 -0.244064,0.29442 z"
+       id="path3894" />
+    <path
+       style="fill:none;stroke:#999999;stroke-width:0.30000001;marker-end:url(#DrawCurveMarker)"
+       d="m 12.984459,287.91964 c -0.128034,0 -0.272659,0.0548 -0.346182,0.14945 -0.05455,0.0702 -0.803263,1.22213 -0.837523,1.28853 v 0 -8e-5 c -0.0759,0.14715 0.05072,-0.0259 0.462833,-0.63249 0.237538,-0.34964 0.461983,-0.65814 0.498773,-0.68564 0.03679,-0.0274 0.121713,-0.0556 0.188723,-0.0616 0.10735,-0.0103 0.13005,-0.003 0.19091,0.0574 0.04497,0.045 0.06939,0.0965 0.06998,0.14755 5e-4,0.0432 0.0046,0.16354 0.009,0.26751 0.0044,0.10397 0.01181,0.33648 0.01641,0.51669 0.0076,0.29738 0.0097,0.27758 0.02315,-0.21424 0.0081,-0.29804 0.0066,-0.58161 -0.0034,-0.63011 -0.01002,-0.0485 -0.04781,-0.11372 -0.08396,-0.14492 -0.04599,-0.0397 -0.114569,-0.058 -0.188714,-0.058 z m 0.743294,3.58352 2.2e-5,3e-5 c 0.07566,0.0332 0.301293,0.007 0.378923,-0.0436 0.0647,-0.0424 1.271959,-1.82208 1.271959,-1.87508 0,-0.0337 -0.106354,-0.0289 -0.473877,0.0211 l -0.310049,0.0422 -0.187736,0.30028 -0.187736,0.30028 v -0.2715 c 0,-0.26873 -5.9e-4,-0.27133 -0.05671,-0.25823 -0.03119,0.007 -0.179092,0.033 -0.328671,0.057 l -0.271962,0.0437 0.0073,0.77486 c 0.0069,0.73386 0.01,0.77786 0.05772,0.83086 0.02773,0.0308 0.07309,0.0659 0.100817,0.0781 z m 0.300795,-0.0783 3.9e-5,4e-5 c -0.168676,0.0827 -0.308588,0.0554 -0.375088,-0.0732 -0.03263,-0.0631 -0.03913,-0.19281 -0.03913,-0.7815 v -0.70583 l 0.08191,-0.0152 c 0.04505,-0.008 0.166978,-0.0295 0.270946,-0.047 l 0.189032,-0.0318 0.0071,0.27268 c 0.0054,0.20848 0.01513,0.27268 0.04112,0.27268 0.0187,0 0.124608,-0.14018 0.235353,-0.31151 l 0.201354,-0.3115 0.190146,-0.0283 c 0.104581,-0.0156 0.254489,-0.0361 0.333129,-0.0451 l 0.142982,-0.0168 -0.332407,0.50151 c -0.870166,1.31283 -0.837651,1.26743 -0.946486,1.32083 z m 1.752415,0.0313 -7.9e-5,7e-5 c 0.09178,0.0822 0.221327,0.0917 0.381167,0.0277 0.09753,-0.039 0.14774,-0.10765 0.806757,-1.10269 0.386517,-0.58359 0.733294,-1.10639 0.770624,-1.16189 0.03733,-0.0555 0.23594,-0.34941 0.441365,-0.65325 0.205425,-0.30384 0.373501,-0.5675 0.373501,-0.586 0,-0.0266 -0.08126,-0.0336 -0.385229,-0.0336 H 17.78384 l -0.352004,0.56732 c -0.193599,0.31202 -0.398771,0.63812 -0.455931,0.72462 -0.05716,0.0865 -0.221621,0.34135 -0.365462,0.56628 l -0.261529,0.40896 -0.0069,-0.39025 -0.0069,-0.39026 -0.09388,0.0134 c -0.05163,0.007 -0.193434,0.024 -0.315117,0.0369 -0.121683,0.013 -0.232262,0.0307 -0.245742,0.0387 -0.03171,0.0196 -0.03173,1.62647 -2.5e-5,1.76386 0.01391,0.0603 0.05437,0.12873 0.100613,0.17013 z m 0.402027,-0.0495 2e-6,1.4e-4 c -0.07611,0.0548 -0.239056,0.0778 -0.316476,0.0447 -0.133419,-0.057 -0.135019,-0.0695 -0.135019,-1.0244 v -0.88567 l 0.195333,-0.0169 c 0.107434,-0.009 0.232198,-0.0235 0.277248,-0.0315 l 0.08191,-0.0146 v 0.41867 c 0,0.34458 0.0063,0.41868 0.03573,0.41868 0.01965,0 0.145859,-0.17633 0.280462,-0.39185 0.134603,-0.21551 0.263398,-0.41486 0.286208,-0.44306 0.03492,-0.0432 0.08857,-0.0552 0.339319,-0.0764 0.163813,-0.0134 0.304006,-0.0194 0.311606,-0.0114 0.0221,0.0221 -1.284503,1.96189 -1.356323,2.01359 z m 1.317944,-2.06453 v 10e-6 c -0.224874,0.0264 -0.559633,0.0455 -0.559633,0.0324 0,-0.007 0.133268,-0.21756 0.296151,-0.46736 0.162883,-0.2498 0.36123,-0.55679 0.44076,-0.6822 l 0.14461,-0.22802 h 0.327971 c 0.180384,0 0.327971,0.005 0.327971,0.0121 0,0.007 -0.122868,0.19666 -0.273038,0.42217 -0.150171,0.22552 -0.343507,0.51963 -0.429637,0.65357 -0.156348,0.24313 -0.156787,0.24353 -0.275155,0.25733 z m 9.610302,2.16094 -3e-6,-3e-5 c 0.07763,0.0339 0.302596,0.0112 0.377826,-0.0381 0.05877,-0.0385 0.185176,-0.22204 0.751583,-1.09122 0.13089,-0.20082 0.13822,-0.22502 0.0741,-0.24442 -0.05943,-0.018 -0.515663,-0.11608 -0.539803,-0.11608 -0.01055,0 -0.04794,0.0424 -0.0831,0.0941 l -0.06392,0.0941 -3.86e-4,-0.0878 c -2.1e-4,-0.0483 -0.0087,-0.0998 -0.0189,-0.11438 -0.01466,-0.0211 -0.560804,-0.13761 -0.643384,-0.13729 -0.011,4e-5 -0.0166,0.33917 -0.0126,0.7536 0.007,0.71242 0.01011,0.75662 0.05777,0.80952 0.02773,0.0308 0.07309,0.0659 0.100817,0.078 z m 0.348275,-0.0856 3.9e-5,1e-5 c -0.08544,0.056 -0.25912,0.0662 -0.34106,0.02 -0.110567,-0.0623 -0.123867,-0.16271 -0.115567,-0.87098 l 0.0075,-0.64406 0.270946,0.0496 0.270946,0.0497 v 0.14702 c 0,0.18695 0.04401,0.19419 0.15557,0.0256 l 0.08034,-0.12142 0.248743,0.0496 c 0.167332,0.0334 0.244992,0.0595 0.237192,0.0797 -0.03686,0.0961 -0.765539,1.18303 -0.814649,1.21523 z m -17.071327,0.0546 h 3e-6 c 0,0.0193 0.117754,0.0283 0.387614,0.0283 h 0.387613 l 0.282068,-0.44738 c 0.155137,-0.24605 0.337281,-0.53244 0.404761,-0.63641 0.12689,-0.19544 0.14811,-0.25204 0.0946,-0.25204 -0.05966,0 -0.813326,0.20852 -0.845306,0.23382 -0.04678,0.0371 -0.711353,1.04021 -0.711353,1.07371 z m 1.116345,-0.62335 -0.373831,0.58874 -0.336846,0.007 -0.336846,0.007 0.04562,-0.0701 c 0.02509,-0.0385 0.175904,-0.26578 0.335145,-0.50499 l 0.289529,-0.43493 0.166033,-0.0488 c 0.27841,-0.0819 0.564776,-0.15281 0.575176,-0.14241 0.0054,0.005 -0.158375,0.27474 -0.36398,0.59849 z m 1.107558,-0.0964 -0.0066,0.74942 0.334334,-0.007 0.334333,-0.007 0.0072,-0.78807 c 0.0061,-0.66841 0.0017,-0.79024 -0.02917,-0.80204 -0.02002,-0.008 -0.170717,0.0128 -0.334882,0.0456 l -0.298483,0.0596 z m 0.598978,-0.0612 5e-6,0.75881 h -0.277247 -0.277248 v -0.7011 -0.70109 l 0.245742,-0.046 c 0.135158,-0.0253 0.259918,-0.0517 0.277248,-0.0577 0.0248,-0.009 0.0315,0.15055 0.0315,0.74708 z m 5.854348,0.77114 h 3e-6 c 0.213058,0.0462 0.624407,0.0459 0.822193,-6.6e-4 0.380141,-0.0896 0.750116,-0.37473 0.917348,-0.70696 0.125055,-0.24843 0.169035,-0.43926 0.169035,-0.73339 0,-0.42829 -0.115079,-0.7229 -0.392273,-1.00421 -0.271069,-0.27511 -0.643141,-0.41431 -1.107383,-0.41431 -0.57044,0 -1.00275,0.21317 -1.278619,0.63049 -0.271418,0.41058 -0.292976,1.03155 -0.05237,1.50844 0.177286,0.35139 0.544827,0.6386 0.922066,0.7206 z m 0.738248,-0.0393 -7e-6,-1.2e-4 c -0.337462,0.0608 -0.760289,0.009 -1.026303,-0.12588 -0.491203,-0.24893 -0.788966,-0.80411 -0.743996,-1.38721 0.01524,-0.19757 0.09683,-0.49053 0.151109,-0.54253 0.01639,-0.0157 0.16455,-0.0355 0.33133,-0.0445 l 0.301683,-0.0161 -0.09243,0.0949 c -0.05084,0.0522 -0.124209,0.16297 -0.163059,0.24617 -0.06333,0.1355 -0.07063,0.17875 -0.07063,0.41587 0,0.23241 0.008,0.28168 0.06556,0.40442 0.176874,0.3771 0.490815,0.54315 0.989986,0.52365 0.299849,-0.0117 0.468942,-0.0756 0.655908,-0.24799 0.345189,-0.31818 0.370348,-0.93367 0.05395,-1.3198 -0.04912,-0.06 -0.08931,-0.11538 -0.08931,-0.12238 0,-0.007 0.124603,-0.0155 0.276895,-0.0175 l 0.276896,-0.004 0.05116,0.0831 c 0.135755,0.22051 0.189935,0.69577 0.115465,1.0128 -0.123751,0.52682 -0.565774,0.9537 -1.084207,1.0471 z m 0.1154,-0.5602 8e-6,-4e-5 c -0.188128,0.0925 -0.571219,0.108 -0.802336,0.0324 -0.200485,-0.0656 -0.406284,-0.24855 -0.504524,-0.44861 -0.06213,-0.12651 -0.07043,-0.1717 -0.07043,-0.38339 0,-0.21966 0.0069,-0.254 0.08169,-0.40591 0.103267,-0.20977 0.276482,-0.37491 0.468719,-0.44681 0.181594,-0.0679 0.511634,-0.0734 0.730137,-0.0121 0.192033,0.0539 0.412261,0.24984 0.514295,0.45762 0.06337,0.129 0.07027,0.16918 0.07027,0.40774 0,0.25362 -0.0036,0.27129 -0.08643,0.42407 -0.09677,0.17848 -0.202437,0.27723 -0.401399,0.37503 z m -0.903401,-1.6574 -1e-6,-8e-5 c -0.149174,0.0698 -0.190698,0.0768 -0.488183,0.0868 -0.323543,0.0105 -0.325003,0.0103 -0.296923,-0.0422 0.05002,-0.0935 0.249712,-0.29103 0.376302,-0.37223 0.06772,-0.0435 0.205546,-0.10844 0.306273,-0.14434 0.163845,-0.0589 0.221643,-0.0659 0.548602,-0.0669 0.311407,-0.001 0.392055,0.007 0.545251,0.0549 0.215999,0.0679 0.489453,0.24576 0.62449,0.40612 l 0.09856,0.11703 -0.325397,0.0126 c -0.277204,0.0108 -0.336901,0.006 -0.403071,-0.0309 -0.260495,-0.146 -0.69858,-0.15526 -0.985903,-0.0208 z m 3.949469,0.84643 -4.2e-5,1.44947 0.333957,-0.007 0.333957,-0.007 0.007,-0.99557 c 0.0038,-0.54757 0.0014,-1.01828 -0.0055,-1.04598 -0.01106,-0.0447 -0.03601,-0.0512 -0.221249,-0.0562 -0.114828,-0.003 -0.254145,-0.0115 -0.309595,-0.0195 l -0.100818,-0.0137 v -0.39638 -0.39638 l -0.434774,-0.007 -0.434774,-0.007 v -0.27666 -0.27665 h 1.172 1.172 v 0.27725 0.27725 h -0.441075 c -0.471716,0 -0.446676,-0.007 -0.446676,0.12602 0,0.0277 0.0037,0.19502 0.0081,0.37176 l 0.0081,0.32136 0.01363,-0.37807 0.01363,-0.37806 0.447376,-0.007 0.447377,-0.007 v -0.32731 -0.32732 l -1.22871,0.007 -1.22871,0.007 -0.0086,0.0882 c -0.0047,0.0485 -8e-4,0.19313 0.0087,0.32136 l 0.01725,0.23314 h 0.438723 0.438723 z m 0.604903,0.40403 3e-6,0.99407 h -0.277247 -0.277247 v -1.02279 -1.0228 l 0.258344,0.0178 c 0.142089,0.01 0.266847,0.0227 0.277247,0.0287 0.0104,0.006 0.0189,0.45827 0.0189,1.00502 z m 1.252131,1.028 4.2e-5,4e-4 c 0.0094,0.01 0.41489,0.0145 0.901054,0.0105 l 0.883933,-0.007 0.0071,-0.29888 c 0.0047,-0.19881 -0.0026,-0.31066 -0.02199,-0.33396 -0.02321,-0.0281 -0.13834,-0.0351 -0.56792,-0.0351 h -0.538806 v -0.39066 -0.39067 h 0.466279 0.46628 v -0.13548 -0.13548 l -0.346559,-0.0545 c -0.551127,-0.0867 -1.227003,-0.17439 -1.247613,-0.16189 -0.02357,0.0143 -0.02532,1.90922 -0.0018,1.93272 z m 1.721976,-0.31067 -3.4e-5,0.27631 h -0.844344 -0.844344 v -0.9337 -0.9337 l 0.08191,0.0132 c 0.04505,0.007 0.365463,0.0536 0.712022,0.10311 0.346559,0.0495 0.649955,0.0961 0.674215,0.10307 0.03089,0.009 0.04411,0.0391 0.04411,0.0997 v 0.0865 h -0.466861 -0.466861 l 0.0069,0.44738 0.0069,0.44737 0.548194,0.007 0.548193,0.007 z m 2.605079,0.0368 0.198063,0.29038 h 0.423638 c 0.310358,0 0.426362,-0.008 0.433862,-0.0307 0.0074,-0.0222 -0.479351,-0.71821 -0.750772,-1.0735 -0.01491,-0.0195 -0.909708,-0.22215 -0.937638,-0.21215 -0.01732,0.006 -0.0315,0.021 -0.0315,0.0331 0,0.0121 0.104912,0.1751 0.233139,0.36224 0.128227,0.18714 0.322271,0.47093 0.431208,0.63063 z m 0.630881,-0.26368 0.366638,0.50365 -0.383557,-9.6e-4 -0.383557,-9.6e-4 -0.0978,-0.14396 c -0.05379,-0.0792 -0.239,-0.3514 -0.411577,-0.60493 -0.256361,-0.37658 -0.303031,-0.45848 -0.255061,-0.44758 0.321649,0.0733 0.630074,0.146 0.705744,0.1663 0.08244,0.0221 0.132516,0.0797 0.45917,0.52844 z m -17.395792,-1.44968 5e-6,-5e-5 c -0.02828,0.0576 0.04356,-0.0326 0.130264,-0.16349 0.07217,-0.1089 0.09159,-0.126 0.09159,-0.0804 0,0.0322 0.01119,0.0513 0.0252,0.0423 0.03741,-0.0231 0.03052,-0.10597 -0.0101,-0.12157 -0.02955,-0.0113 -0.160119,0.16676 -0.236959,0.32321 z m 3.090032,-0.11477 -7e-6,3e-5 c -0.03106,0.0478 -0.04349,0.079 -0.02756,0.069 0.01593,-0.01 0.07439,-0.0859 0.12993,-0.16911 0.09664,-0.1448 0.101422,-0.1483 0.111502,-0.0816 0.0099,0.0652 0.01081,0.0644 0.01431,-0.0123 0.0051,-0.11171 -0.0487,-0.10592 -0.117103,0.0126 -0.03,0.052 -0.07998,0.13358 -0.111072,0.18138 z m 12.701128,10e-4 h -1e-6 c -0.03258,0.0564 -0.03701,0.0744 -0.01218,0.0504 0.03501,-0.0339 0.490432,-0.7298 0.812353,-1.24131 l 0.122933,-0.19534 h 0.332235 0.332236 l -0.457516,0.68682 c -0.50973,0.76522 -0.52099,0.78302 -0.44853,0.71202 0.08751,-0.0858 0.939097,-1.31804 0.971117,-1.40514 0.01499,-0.0411 -0.013,-0.0441 -0.373834,-0.0441 h -0.390041 l -0.117245,0.18273 c -0.124699,0.19435 -0.685527,1.10584 -0.771527,1.25392 z m -13.359206,-0.0522 -3e-6,-6e-5 c -0.02872,0.0475 -0.03977,0.0784 -0.02462,0.0694 0.03086,-0.0191 0.0753,-0.0857 0.499168,-0.74804 0.164113,-0.25645 0.321893,-0.49288 0.350633,-0.52538 0.174417,-0.19731 0.481479,-0.15972 0.600401,0.0735 0.03761,0.0737 0.04408,0.16034 0.04411,0.58925 3e-5,0.35372 0.008,0.49495 0.02672,0.47615 0.0176,-0.0176 0.024,-0.20389 0.0189,-0.54517 -0.0072,-0.47988 -0.0117,-0.52377 -0.0605,-0.58957 -0.187661,-0.25297 -0.551008,-0.24669 -0.722532,0.0125 -0.05529,0.0835 -0.555518,0.89469 -0.732277,1.18742 z m 10.007685,-0.22257 h 8e-6 c 0.01495,0.18745 0.02032,0.096 0.02562,-0.4372 l 0.0067,-0.67422 h 0.83133 0.83133 v 0.27725 0.27725 h -0.541892 -0.541893 l 0.004,0.37176 c 0.0033,0.31294 0.0068,0.34385 0.02207,0.19533 0.01,-0.097 0.01954,-0.25296 0.02124,-0.34656 l 0.0031,-0.17012 h 0.541892 0.541896 v -0.32766 -0.32766 h -0.882151 -0.88215 v 0.46241 c 0,0.25433 0.0085,0.56906 0.0189,0.69942 z m -11.256315,-0.47501 h 3.3e-5 c 0.0024,0.43679 0.01054,0.63179 0.02247,0.53559 0.01032,-0.0832 0.02,-0.3809 0.0215,-0.66161 l 0.0027,-0.51039 h 0.277247 0.277172 l 0.0019,0.53559 c 0.001,0.29458 0.01095,0.58661 0.02205,0.64901 0.01273,0.0715 0.02134,-0.13572 0.02334,-0.56079 l 0.0032,-0.67422 h -0.327656 -0.327656 z m 13.39868,0.63433 5.9e-5,4e-5 c 0.0104,0.0104 0.02193,-0.27125 0.02563,-0.62591 l 0.0067,-0.64483 h 0.276822 0.276821 l 0.0034,0.24574 c 0.0019,0.13516 0.0104,0.42722 0.0189,0.64901 l 0.01549,0.40327 0.01931,-0.65076 c 0.0106,-0.35792 0.0128,-0.66131 0.0048,-0.67421 -0.008,-0.0129 -0.161271,-0.0235 -0.340663,-0.0235 h -0.326169 v 0.65111 c 0,0.35812 0.0085,0.65964 0.0189,0.67004 z m -5.878902,-0.41938 v 0 c 0.252969,0.0897 0.545255,-0.0604 0.616395,-0.31655 0.03251,-0.11707 0.03247,-0.14617 -4.06e-4,-0.26455 -0.06039,-0.21745 -0.292762,-0.36765 -0.520474,-0.33645 -0.324327,0.0445 -0.503181,0.38826 -0.357997,0.68817 0.05515,0.11392 0.135933,0.18448 0.262482,0.22938 z m 0.323341,-0.054 v 0 c -0.34031,0.1422 -0.695798,-0.21329 -0.553607,-0.5536 0.04343,-0.10396 0.167044,-0.20889 0.289107,-0.24549 0.287883,-0.0862 0.587594,0.21117 0.508564,0.50467 -0.03368,0.12509 -0.136956,0.24972 -0.244064,0.29442 z"
+       id="path3896" />
+    <path
+       style="fill:none;stroke:#999999;stroke-width:0.30000001;marker-end:url(#DrawCurveMarker)"
+       d="m 12.984459,287.91964 c -0.128034,0 -0.272659,0.0548 -0.346182,0.14945 -0.05455,0.0702 -0.803263,1.22213 -0.837523,1.28853 v 0 -8e-5 c -0.0759,0.14715 0.05072,-0.0259 0.462833,-0.63249 0.237538,-0.34964 0.461983,-0.65814 0.498773,-0.68564 0.03679,-0.0274 0.121713,-0.0556 0.188723,-0.0616 0.10735,-0.0103 0.13005,-0.003 0.19091,0.0574 0.04497,0.045 0.06939,0.0965 0.06998,0.14755 5e-4,0.0432 0.0046,0.16354 0.009,0.26751 0.0044,0.10397 0.01181,0.33648 0.01641,0.51669 0.0076,0.29738 0.0097,0.27758 0.02315,-0.21424 0.0081,-0.29804 0.0066,-0.58161 -0.0034,-0.63011 -0.01002,-0.0485 -0.04781,-0.11372 -0.08396,-0.14492 -0.04599,-0.0397 -0.114569,-0.058 -0.188714,-0.058 z m 0.743294,3.58352 2.2e-5,3e-5 c 0.07566,0.0332 0.301293,0.007 0.378923,-0.0436 0.0647,-0.0424 1.271959,-1.82208 1.271959,-1.87508 0,-0.0337 -0.106354,-0.0289 -0.473877,0.0211 l -0.310049,0.0422 -0.187736,0.30028 -0.187736,0.30028 v -0.2715 c 0,-0.26873 -5.9e-4,-0.27133 -0.05671,-0.25823 -0.03119,0.007 -0.179092,0.033 -0.328671,0.057 l -0.271962,0.0437 0.0073,0.77486 c 0.0069,0.73386 0.01,0.77786 0.05772,0.83086 0.02773,0.0308 0.07309,0.0659 0.100817,0.0781 z m 0.300795,-0.0783 3.9e-5,4e-5 c -0.168676,0.0827 -0.308588,0.0554 -0.375088,-0.0732 -0.03263,-0.0631 -0.03913,-0.19281 -0.03913,-0.7815 v -0.70583 l 0.08191,-0.0152 c 0.04505,-0.008 0.166978,-0.0295 0.270946,-0.047 l 0.189032,-0.0318 0.0071,0.27268 c 0.0054,0.20848 0.01513,0.27268 0.04112,0.27268 0.0187,0 0.124608,-0.14018 0.235353,-0.31151 l 0.201354,-0.3115 0.190146,-0.0283 c 0.104581,-0.0156 0.254489,-0.0361 0.333129,-0.0451 l 0.142982,-0.0168 -0.332407,0.50151 c -0.870166,1.31283 -0.837651,1.26743 -0.946486,1.32083 z m 1.752415,0.0313 -7.9e-5,7e-5 c 0.09178,0.0822 0.221327,0.0917 0.381167,0.0277 0.09753,-0.039 0.14774,-0.10765 0.806757,-1.10269 0.386517,-0.58359 0.733294,-1.10639 0.770624,-1.16189 0.03733,-0.0555 0.23594,-0.34941 0.441365,-0.65325 0.205425,-0.30384 0.373501,-0.5675 0.373501,-0.586 0,-0.0266 -0.08126,-0.0336 -0.385229,-0.0336 H 17.78384 l -0.352004,0.56732 c -0.193599,0.31202 -0.398771,0.63812 -0.455931,0.72462 -0.05716,0.0865 -0.221621,0.34135 -0.365462,0.56628 l -0.261529,0.40896 -0.0069,-0.39025 -0.0069,-0.39026 -0.09388,0.0134 c -0.05163,0.007 -0.193434,0.024 -0.315117,0.0369 -0.121683,0.013 -0.232262,0.0307 -0.245742,0.0387 -0.03171,0.0196 -0.03173,1.62647 -2.5e-5,1.76386 0.01391,0.0603 0.05437,0.12873 0.100613,0.17013 z m 0.402027,-0.0495 2e-6,1.4e-4 c -0.07611,0.0548 -0.239056,0.0778 -0.316476,0.0447 -0.133419,-0.057 -0.135019,-0.0695 -0.135019,-1.0244 v -0.88567 l 0.195333,-0.0169 c 0.107434,-0.009 0.232198,-0.0235 0.277248,-0.0315 l 0.08191,-0.0146 v 0.41867 c 0,0.34458 0.0063,0.41868 0.03573,0.41868 0.01965,0 0.145859,-0.17633 0.280462,-0.39185 0.134603,-0.21551 0.263398,-0.41486 0.286208,-0.44306 0.03492,-0.0432 0.08857,-0.0552 0.339319,-0.0764 0.163813,-0.0134 0.304006,-0.0194 0.311606,-0.0114 0.0221,0.0221 -1.284503,1.96189 -1.356323,2.01359 z m 1.317944,-2.06453 v 10e-6 c -0.224874,0.0264 -0.559633,0.0455 -0.559633,0.0324 0,-0.007 0.133268,-0.21756 0.296151,-0.46736 0.162883,-0.2498 0.36123,-0.55679 0.44076,-0.6822 l 0.14461,-0.22802 h 0.327971 c 0.180384,0 0.327971,0.005 0.327971,0.0121 0,0.007 -0.122868,0.19666 -0.273038,0.42217 -0.150171,0.22552 -0.343507,0.51963 -0.429637,0.65357 -0.156348,0.24313 -0.156787,0.24353 -0.275155,0.25733 z m 9.610302,2.16094 -3e-6,-3e-5 c 0.07763,0.0339 0.302596,0.0112 0.377826,-0.0381 0.05877,-0.0385 0.185176,-0.22204 0.751583,-1.09122 0.13089,-0.20082 0.13822,-0.22502 0.0741,-0.24442 -0.05943,-0.018 -0.515663,-0.11608 -0.539803,-0.11608 -0.01055,0 -0.04794,0.0424 -0.0831,0.0941 l -0.06392,0.0941 -3.86e-4,-0.0878 c -2.1e-4,-0.0483 -0.0087,-0.0998 -0.0189,-0.11438 -0.01466,-0.0211 -0.560804,-0.13761 -0.643384,-0.13729 -0.011,4e-5 -0.0166,0.33917 -0.0126,0.7536 0.007,0.71242 0.01011,0.75662 0.05777,0.80952 0.02773,0.0308 0.07309,0.0659 0.100817,0.078 z m 0.348275,-0.0856 3.9e-5,1e-5 c -0.08544,0.056 -0.25912,0.0662 -0.34106,0.02 -0.110567,-0.0623 -0.123867,-0.16271 -0.115567,-0.87098 l 0.0075,-0.64406 0.270946,0.0496 0.270946,0.0497 v 0.14702 c 0,0.18695 0.04401,0.19419 0.15557,0.0256 l 0.08034,-0.12142 0.248743,0.0496 c 0.167332,0.0334 0.244992,0.0595 0.237192,0.0797 -0.03686,0.0961 -0.765539,1.18303 -0.814649,1.21523 z m -17.071327,0.0546 h 3e-6 c 0,0.0193 0.117754,0.0283 0.387614,0.0283 h 0.387613 l 0.282068,-0.44738 c 0.155137,-0.24605 0.337281,-0.53244 0.404761,-0.63641 0.12689,-0.19544 0.14811,-0.25204 0.0946,-0.25204 -0.05966,0 -0.813326,0.20852 -0.845306,0.23382 -0.04678,0.0371 -0.711353,1.04021 -0.711353,1.07371 z m 1.116345,-0.62335 -0.373831,0.58874 -0.336846,0.007 -0.336846,0.007 0.04562,-0.0701 c 0.02509,-0.0385 0.175904,-0.26578 0.335145,-0.50499 l 0.289529,-0.43493 0.166033,-0.0488 c 0.27841,-0.0819 0.564776,-0.15281 0.575176,-0.14241 0.0054,0.005 -0.158375,0.27474 -0.36398,0.59849 z m 1.107558,-0.0964 -0.0066,0.74942 0.334334,-0.007 0.334333,-0.007 0.0072,-0.78807 c 0.0061,-0.66841 0.0017,-0.79024 -0.02917,-0.80204 -0.02002,-0.008 -0.170717,0.0128 -0.334882,0.0456 l -0.298483,0.0596 z m 0.598978,-0.0612 5e-6,0.75881 h -0.277247 -0.277248 v -0.7011 -0.70109 l 0.245742,-0.046 c 0.135158,-0.0253 0.259918,-0.0517 0.277248,-0.0577 0.0248,-0.009 0.0315,0.15055 0.0315,0.74708 z m 5.854348,0.77114 h 3e-6 c 0.213058,0.0462 0.624407,0.0459 0.822193,-6.6e-4 0.380141,-0.0896 0.750116,-0.37473 0.917348,-0.70696 0.125055,-0.24843 0.169035,-0.43926 0.169035,-0.73339 0,-0.42829 -0.115079,-0.7229 -0.392273,-1.00421 -0.271069,-0.27511 -0.643141,-0.41431 -1.107383,-0.41431 -0.57044,0 -1.00275,0.21317 -1.278619,0.63049 -0.271418,0.41058 -0.292976,1.03155 -0.05237,1.50844 0.177286,0.35139 0.544827,0.6386 0.922066,0.7206 z m 0.738248,-0.0393 -7e-6,-1.2e-4 c -0.337462,0.0608 -0.760289,0.009 -1.026303,-0.12588 -0.491203,-0.24893 -0.788966,-0.80411 -0.743996,-1.38721 0.01524,-0.19757 0.09683,-0.49053 0.151109,-0.54253 0.01639,-0.0157 0.16455,-0.0355 0.33133,-0.0445 l 0.301683,-0.0161 -0.09243,0.0949 c -0.05084,0.0522 -0.124209,0.16297 -0.163059,0.24617 -0.06333,0.1355 -0.07063,0.17875 -0.07063,0.41587 0,0.23241 0.008,0.28168 0.06556,0.40442 0.176874,0.3771 0.490815,0.54315 0.989986,0.52365 0.299849,-0.0117 0.468942,-0.0756 0.655908,-0.24799 0.345189,-0.31818 0.370348,-0.93367 0.05395,-1.3198 -0.04912,-0.06 -0.08931,-0.11538 -0.08931,-0.12238 0,-0.007 0.124603,-0.0155 0.276895,-0.0175 l 0.276896,-0.004 0.05116,0.0831 c 0.135755,0.22051 0.189935,0.69577 0.115465,1.0128 -0.123751,0.52682 -0.565774,0.9537 -1.084207,1.0471 z m 0.1154,-0.5602 8e-6,-4e-5 c -0.188128,0.0925 -0.571219,0.108 -0.802336,0.0324 -0.200485,-0.0656 -0.406284,-0.24855 -0.504524,-0.44861 -0.06213,-0.12651 -0.07043,-0.1717 -0.07043,-0.38339 0,-0.21966 0.0069,-0.254 0.08169,-0.40591 0.103267,-0.20977 0.276482,-0.37491 0.468719,-0.44681 0.181594,-0.0679 0.511634,-0.0734 0.730137,-0.0121 0.192033,0.0539 0.412261,0.24984 0.514295,0.45762 0.06337,0.129 0.07027,0.16918 0.07027,0.40774 0,0.25362 -0.0036,0.27129 -0.08643,0.42407 -0.09677,0.17848 -0.202437,0.27723 -0.401399,0.37503 z m -0.903401,-1.6574 -1e-6,-8e-5 c -0.149174,0.0698 -0.190698,0.0768 -0.488183,0.0868 -0.323543,0.0105 -0.325003,0.0103 -0.296923,-0.0422 0.05002,-0.0935 0.249712,-0.29103 0.376302,-0.37223 0.06772,-0.0435 0.205546,-0.10844 0.306273,-0.14434 0.163845,-0.0589 0.221643,-0.0659 0.548602,-0.0669 0.311407,-0.001 0.392055,0.007 0.545251,0.0549 0.215999,0.0679 0.489453,0.24576 0.62449,0.40612 l 0.09856,0.11703 -0.325397,0.0126 c -0.277204,0.0108 -0.336901,0.006 -0.403071,-0.0309 -0.260495,-0.146 -0.69858,-0.15526 -0.985903,-0.0208 z m 3.949469,0.84643 -4.2e-5,1.44947 0.333957,-0.007 0.333957,-0.007 0.007,-0.99557 c 0.0038,-0.54757 0.0014,-1.01828 -0.0055,-1.04598 -0.01106,-0.0447 -0.03601,-0.0512 -0.221249,-0.0562 -0.114828,-0.003 -0.254145,-0.0115 -0.309595,-0.0195 l -0.100818,-0.0137 v -0.39638 -0.39638 l -0.434774,-0.007 -0.434774,-0.007 v -0.27666 -0.27665 h 1.172 1.172 v 0.27725 0.27725 h -0.441075 c -0.471716,0 -0.446676,-0.007 -0.446676,0.12602 0,0.0277 0.0037,0.19502 0.0081,0.37176 l 0.0081,0.32136 0.01363,-0.37807 0.01363,-0.37806 0.447376,-0.007 0.447377,-0.007 v -0.32731 -0.32732 l -1.22871,0.007 -1.22871,0.007 -0.0086,0.0882 c -0.0047,0.0485 -8e-4,0.19313 0.0087,0.32136 l 0.01725,0.23314 h 0.438723 0.438723 z m 0.604903,0.40403 3e-6,0.99407 h -0.277247 -0.277247 v -1.02279 -1.0228 l 0.258344,0.0178 c 0.142089,0.01 0.266847,0.0227 0.277247,0.0287 0.0104,0.006 0.0189,0.45827 0.0189,1.00502 z m 1.252131,1.028 4.2e-5,4e-4 c 0.0094,0.01 0.41489,0.0145 0.901054,0.0105 l 0.883933,-0.007 0.0071,-0.29888 c 0.0047,-0.19881 -0.0026,-0.31066 -0.02199,-0.33396 -0.02321,-0.0281 -0.13834,-0.0351 -0.56792,-0.0351 h -0.538806 v -0.39066 -0.39067 h 0.466279 0.46628 v -0.13548 -0.13548 l -0.346559,-0.0545 c -0.551127,-0.0867 -1.227003,-0.17439 -1.247613,-0.16189 -0.02357,0.0143 -0.02532,1.90922 -0.0018,1.93272 z m 1.721976,-0.31067 -3.4e-5,0.27631 h -0.844344 -0.844344 v -0.9337 -0.9337 l 0.08191,0.0132 c 0.04505,0.007 0.365463,0.0536 0.712022,0.10311 0.346559,0.0495 0.649955,0.0961 0.674215,0.10307 0.03089,0.009 0.04411,0.0391 0.04411,0.0997 v 0.0865 h -0.466861 -0.466861 l 0.0069,0.44738 0.0069,0.44737 0.548194,0.007 0.548193,0.007 z m 2.605079,0.0368 0.198063,0.29038 h 0.423638 c 0.310358,0 0.426362,-0.008 0.433862,-0.0307 0.0074,-0.0222 -0.479351,-0.71821 -0.750772,-1.0735 -0.01491,-0.0195 -0.909708,-0.22215 -0.937638,-0.21215 -0.01732,0.006 -0.0315,0.021 -0.0315,0.0331 0,0.0121 0.104912,0.1751 0.233139,0.36224 0.128227,0.18714 0.322271,0.47093 0.431208,0.63063 z m 0.630881,-0.26368 0.366638,0.50365 -0.383557,-9.6e-4 -0.383557,-9.6e-4 -0.0978,-0.14396 c -0.05379,-0.0792 -0.239,-0.3514 -0.411577,-0.60493 -0.256361,-0.37658 -0.303031,-0.45848 -0.255061,-0.44758 0.321649,0.0733 0.630074,0.146 0.705744,0.1663 0.08244,0.0221 0.132516,0.0797 0.45917,0.52844 z m -17.395792,-1.44968 5e-6,-5e-5 c -0.02828,0.0576 0.04356,-0.0326 0.130264,-0.16349 0.07217,-0.1089 0.09159,-0.126 0.09159,-0.0804 0,0.0322 0.01119,0.0513 0.0252,0.0423 0.03741,-0.0231 0.03052,-0.10597 -0.0101,-0.12157 -0.02955,-0.0113 -0.160119,0.16676 -0.236959,0.32321 z m 3.090032,-0.11477 -7e-6,3e-5 c -0.03106,0.0478 -0.04349,0.079 -0.02756,0.069 0.01593,-0.01 0.07439,-0.0859 0.12993,-0.16911 0.09664,-0.1448 0.101422,-0.1483 0.111502,-0.0816 0.0099,0.0652 0.01081,0.0644 0.01431,-0.0123 0.0051,-0.11171 -0.0487,-0.10592 -0.117103,0.0126 -0.03,0.052 -0.07998,0.13358 -0.111072,0.18138 z m 12.701128,10e-4 h -1e-6 c -0.03258,0.0564 -0.03701,0.0744 -0.01218,0.0504 0.03501,-0.0339 0.490432,-0.7298 0.812353,-1.24131 l 0.122933,-0.19534 h 0.332235 0.332236 l -0.457516,0.68682 c -0.50973,0.76522 -0.52099,0.78302 -0.44853,0.71202 0.08751,-0.0858 0.939097,-1.31804 0.971117,-1.40514 0.01499,-0.0411 -0.013,-0.0441 -0.373834,-0.0441 h -0.390041 l -0.117245,0.18273 c -0.124699,0.19435 -0.685527,1.10584 -0.771527,1.25392 z m -13.359206,-0.0522 -3e-6,-6e-5 c -0.02872,0.0475 -0.03977,0.0784 -0.02462,0.0694 0.03086,-0.0191 0.0753,-0.0857 0.499168,-0.74804 0.164113,-0.25645 0.321893,-0.49288 0.350633,-0.52538 0.174417,-0.19731 0.481479,-0.15972 0.600401,0.0735 0.03761,0.0737 0.04408,0.16034 0.04411,0.58925 3e-5,0.35372 0.008,0.49495 0.02672,0.47615 0.0176,-0.0176 0.024,-0.20389 0.0189,-0.54517 -0.0072,-0.47988 -0.0117,-0.52377 -0.0605,-0.58957 -0.187661,-0.25297 -0.551008,-0.24669 -0.722532,0.0125 -0.05529,0.0835 -0.555518,0.89469 -0.732277,1.18742 z m 10.007685,-0.22257 h 8e-6 c 0.01495,0.18745 0.02032,0.096 0.02562,-0.4372 l 0.0067,-0.67422 h 0.83133 0.83133 v 0.27725 0.27725 h -0.541892 -0.541893 l 0.004,0.37176 c 0.0033,0.31294 0.0068,0.34385 0.02207,0.19533 0.01,-0.097 0.01954,-0.25296 0.02124,-0.34656 l 0.0031,-0.17012 h 0.541892 0.541896 v -0.32766 -0.32766 h -0.882151 -0.88215 v 0.46241 c 0,0.25433 0.0085,0.56906 0.0189,0.69942 z m -11.256315,-0.47501 h 3.3e-5 c 0.0024,0.43679 0.01054,0.63179 0.02247,0.53559 0.01032,-0.0832 0.02,-0.3809 0.0215,-0.66161 l 0.0027,-0.51039 h 0.277247 0.277172 l 0.0019,0.53559 c 0.001,0.29458 0.01095,0.58661 0.02205,0.64901 0.01273,0.0715 0.02134,-0.13572 0.02334,-0.56079 l 0.0032,-0.67422 h -0.327656 -0.327656 z m 13.39868,0.63433 5.9e-5,4e-5 c 0.0104,0.0104 0.02193,-0.27125 0.02563,-0.62591 l 0.0067,-0.64483 h 0.276822 0.276821 l 0.0034,0.24574 c 0.0019,0.13516 0.0104,0.42722 0.0189,0.64901 l 0.01549,0.40327 0.01931,-0.65076 c 0.0106,-0.35792 0.0128,-0.66131 0.0048,-0.67421 -0.008,-0.0129 -0.161271,-0.0235 -0.340663,-0.0235 h -0.326169 v 0.65111 c 0,0.35812 0.0085,0.65964 0.0189,0.67004 z m -5.878902,-0.41938 v 0 c 0.252969,0.0897 0.545255,-0.0604 0.616395,-0.31655 0.03251,-0.11707 0.03247,-0.14617 -4.06e-4,-0.26455 -0.06039,-0.21745 -0.292762,-0.36765 -0.520474,-0.33645 -0.324327,0.0445 -0.503181,0.38826 -0.357997,0.68817 0.05515,0.11392 0.135933,0.18448 0.262482,0.22938 z m 0.323341,-0.054 v 0 c -0.34031,0.1422 -0.695798,-0.21329 -0.553607,-0.5536 0.04343,-0.10396 0.167044,-0.20889 0.289107,-0.24549 0.287883,-0.0862 0.587594,0.21117 0.508564,0.50467 -0.03368,0.12509 -0.136956,0.24972 -0.244064,0.29442 z"
+       id="path3898" />
+    <g
+       id="g4152" />
+  </g>
+</svg>
